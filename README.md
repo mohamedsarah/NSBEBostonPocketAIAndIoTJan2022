@@ -1,1 +1,1 @@
-# NSBEBostonPocketAIAndIoTJan2022
+# NSBE Boston Pocket AI and IoT Workshop
